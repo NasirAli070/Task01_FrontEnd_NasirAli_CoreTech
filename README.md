@@ -23,5 +23,6 @@ This is a client-ready sample webpage created for CoreTech Innovations as part o
 - Vanilla JavaScript (no frameworks)
 - Font Awesome icons
 - Google Fonts (via system fonts)
+author : nasir ali
 
 
