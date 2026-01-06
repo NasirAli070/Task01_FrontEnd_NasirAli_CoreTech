@@ -1,0 +1,7 @@
+Front End Development is the part of web development that focuses on the visual and interactive side of websites and applications. It is everything that users see and interact with directly in their browsers. Front End Developers use technologies like HTML, CSS, and JavaScript to build layouts, design styles, and add interactivity to web pages.
+
+HTML (HyperText Markup Language) is used to create the basic structure of a webpage. It defines elements such as headings, paragraphs, images, buttons, and forms. CSS (Cascading Style Sheets) is used to style and design the webpage. It controls colors, fonts, layouts, spacing, and makes the website visually attractive. JavaScript is used to add functionality and interactivity, such as button clicks, sliders, form validation, and dynamic content updates.
+
+Responsive design is very important in modern web development because users access websites on different devices like mobiles, tablets, and desktops. A responsive website automatically adjusts its layout according to screen size, improving user experience. UI (User Interface) focuses on the design and layout, while UX (User Experience) ensures that the website is easy to use, fast, and user-friendly.
+
+CoreTech Innovations can use Front End Development skills to create professional client websites, landing pages, dashboards, and web applications. A well-designed front end helps attract users, build trust, and improve business credibility. Good UI/UX and responsiveness ensure client satisfaction and better engagement.
